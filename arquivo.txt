@@ -1,2 +1,4 @@
 adicionando primeira linha neste arquivo
 adicionando segunda linha neste arquivo
+adicionando terceira linha neste arquivo local
+
