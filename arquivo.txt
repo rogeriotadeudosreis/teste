@@ -4,7 +4,5 @@ adicionando terceira linha neste arquivo local
 adicionando quarta linha neste arquivo local
 adicionando quarta linha neste arquivo remoto
 adicionando quinta linha neste arquivo remoto
-
-
-adicionando quinta linha neste arquivo local
+adicionando sexta linha neste arquivo local
 
