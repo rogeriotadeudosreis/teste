@@ -4,5 +4,6 @@ adicionando terceira linha neste arquivo local
 adicionando quarta linha neste arquivo local
 adicionando quarta linha neste arquivo remoto
 adicionando quinta linha neste arquivo remoto
-Edivan sexta linha neste arquivo local
+Edivan sexta linha neste arquivo local foi alterada pelo Rogerio
+
 
