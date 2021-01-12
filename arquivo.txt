@@ -4,7 +4,7 @@ adicionando terceira linha neste arquivo local
 adicionando quarta linha neste arquivo local
 adicionando quarta linha neste arquivo remoto
 adicionando quinta linha neste arquivo remoto
-Edivan sexta linha neste arquivo local - 12/01/2022
+Edivan sexta linha neste arquivo local foi alterada pelo Rogerio
 
 Hoje é terça - feria.
 
