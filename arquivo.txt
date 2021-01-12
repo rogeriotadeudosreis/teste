@@ -6,4 +6,6 @@ adicionando quarta linha neste arquivo remoto
 adicionando quinta linha neste arquivo remoto
 Edivan sexta linha neste arquivo local - 12/01/2022
 
+Hoje é terça - feria.
+
 
